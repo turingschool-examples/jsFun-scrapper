@@ -1,0 +1,22 @@
+{
+  "name": "jsfun-scraper",
+  "version": "1.0.0",
+  "description": "A tool for automating checking student's work on JS Fun problems at the Turing School of Software and Design",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Khalid Williams",
+  "license": "ISC"
+}
