@@ -9,7 +9,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-spies": "^1.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "mocha": "^7.0.1"
